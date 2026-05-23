@@ -1,7 +1,6 @@
-
-| Year | Title | Venue | Paper | Code | Task | Chinese Notes | Reproduction |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 2026-05 | aDiner: Adaptive Dynamic Implicit Neural Representation for Dynamic CBCT Imaging | TMI | [paper](https://ieeexplore.ieee.org/document/11359356) | [code](https://github.com/Henryzyf/aDiner) | reconstruction | x | x |
-| 2026-05 | Interference-Free Causality Learning Promotes Cross-Level, Fine-Grained Diagnosis of Coronary Artery Disease in Coronary CT Angiography | TMI | [paper](https://ieeexplore.ieee.org/document/11278804/) | x | classification | x | x |
-| 2026-05 | NGP-Net: A Lightweight Growth Prediction Network for Pulmonary Nodules | TMI | [paper](https://ieeexplore.ieee.org/document/11359361/) | x | classification | x | x |
-| 2026-05 | UPMCL-Net: Unsupervised Projection-Domain Multiview Constraint Learning for CBCT Metal Artifact Reduction | TMI | [paper](https://ieeexplore.ieee.org/document/11271327) | x | reconstruction | x | x |
+| Year | Title | Title | Venue | Paper | Code | Task | Chinese Notes | Reproduction |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-05 | aDiner: Adaptive Dynamic Implicit Neural Representation for Dynamic CBCT Imaging | aDiner：用于动态 CBCT 成像的自适应动态隐式神经表征 | TMI | [paper](https://ieeexplore.ieee.org/document/11359356) | [code](https://github.com/Henryzyf/aDiner) | reconstruction | x | x |
+| 2026-05 | Interference-Free Causality Learning Promotes Cross-Level, Fine-Grained Diagnosis of Coronary Artery Disease in Coronary CT Angiography | 无干扰因果学习促进冠状动脉 CT 血管成像中冠心病的跨层级细粒度诊断 | TMI | [paper](https://ieeexplore.ieee.org/document/11278804/) | x | classification | x | x |
+| 2026-05 | NGP-Net: A Lightweight Growth Prediction Network for Pulmonary Nodules | NGP-Net：轻量级肺结节生长预测网络 | TMI | [paper](https://ieeexplore.ieee.org/document/11359361/) | x | classification | x | x |
+| 2026-05 | UPMCL-Net: Unsupervised Projection-Domain Multiview Constraint Learning for CBCT Metal Artifact Reduction | UPMCL-Net：用于 CBCT 金属伪影消减的无监督投影域多视图约束学习 | TMI | [paper](https://ieeexplore.ieee.org/document/11271327) | x | reconstruction | x | x |
