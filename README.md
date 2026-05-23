@@ -170,7 +170,7 @@
 - 持续更新内容
 
 <p align="center">
-  <img src="./docs/zsxq.jpg" width="260">
+  <img src="./docs/zsxq.png" width="260">
 </p>
 
 ---
