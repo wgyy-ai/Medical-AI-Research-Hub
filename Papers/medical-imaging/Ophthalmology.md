@@ -1,1 +1,4 @@
-
+| Year | Title | 中文标题 | Venue | Paper | Code | Task | Chinese Notes | Reproduction |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-05 | A Multi-Degradation Fundus Image Restoration Network Guided by Frequency Prompt | 频率提示引导的多退化眼底图像恢复网络 | TMI | [paper](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=A%20Multi-Degradation%20Fundus%20Image%20Restoration%20Network%20Guided%20by%20Frequency%20Prompt) | x | reconstruction | x | x |
+| 2026-05 | SABPI-Net: A Structure-Aware Bidirectional Proxy Interaction Network for Infantile Retinal Disease Diagnosis | SABPI-Net：用于婴幼儿视网膜疾病诊断的结构感知双向代理交互网络 | TMI | [paper](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=SABPI-Net%3A%20A%20Structure-Aware%20Bidirectional%20Proxy%20Interaction%20Network%20for%20Infantile%20Retinal%20Disease%20Diagnosis) | x | classification | x | x |
