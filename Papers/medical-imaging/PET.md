@@ -1,1 +1,4 @@
-
+| Year | Title | 中文标题 | Venue | Paper | Code | Task | Chinese Notes | Reproduction |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-05 | Unsupervised Depth-of-Interaction Estimation in Monolithic Crystal PET Detectors With Wasserstein Distance-Based Embedding | 基于 Wasserstein 距离嵌入的整体晶体 PET 探测器无监督相互作用深度估计 | TMI | [paper](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=Unsupervised%20Depth-of-Interaction%20Estimation%20in%20Monolithic%20Crystal%20PET%20Detectors%20With%20Wasserstein%20Distance-Based%20Embedding) | x | quantification | x | x |
+| 2026-05 | VQPET: Leveraging Vector-Quantized Codebook Prior for PET Image Synthesis | VQPET：利用向量量化码本先验的 PET 图像合成 | TMI | [paper](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=VQPET%3A%20Leveraging%20Vector-Quantized%20Codebook%20Prior%20for%20PET%20Image%20Synthesis) | x | reconstruction | x | x |
