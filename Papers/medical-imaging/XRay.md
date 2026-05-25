@@ -1,3 +1,4 @@
 | Year | Title | 中文标题 | Venue | Paper | Code | Task | Chinese Notes | Reproduction |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2026-05 | CeLR: A Transformer-Based Regression Network for Accurate Cephalometric Landmark Detection in High-Resolution X-Ray Imaging | CeLR：用于高分辨率 X 线成像中精确头影测量标志点检测的 Transformer 回归网络 | TMI | [paper](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=CeLR%3A%20A%20Transformer-Based%20Regression%20Network%20for%20Accurate%20Cephalometric%20Landmark%20Detection%20in%20High-Resolution%20X-Ray%20Imaging) | x | detection | x | x |
+| 2026-05 | Incorporating global-local tissue changes to predict future breast cancer from longitudinal screening mammograms | 融合全局与局部组织变化以从纵向筛查乳腺 X 线图像预测未来乳腺癌 | MEDIA | [paper](https://doi.org/10.1016/j.media.2026.103990) | x | prognosis prediction; mammography | x | x |
