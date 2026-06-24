@@ -80,22 +80,6 @@
   <img src="./docs/wechat.jpg" width="260">
 </p>
 
----
-
-# 🌍 知识星球
-
-加入知识星球，获取：
-
-- 中文深度解读
-- 代码复现
-- 医学 AI 学习路线
-- 持续更新内容
-
-<p align="center">
-  <img src="./docs/zsxq.png" width="260">
-</p>
-
----
 
 
 如果这个仓库对你有帮助，欢迎 ⭐ Star 支持。
