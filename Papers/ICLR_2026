@@ -1,0 +1,89 @@
+# ICLR 2026 Medical Imaging Papers
+
+## 大模型_多模态
+
+1. **How Do Medical MLLMs Fail?  A Study on Visual Grounding in Medical Images**
+   - Authors: Guimeng Liu, Tianze Yu, Somayeh Ebrahimkhani, Shawn Lin, Kok Pin Ng, Man Cheung
+2. **M3CoTBench: Benchmark Chain-of-Thought of MLLMs in Medical Image Understanding**
+   - Authors: Juntao Jiang, Jiangning Zhang, Yali bi, BAI Jinsheng, Weixuan Liu, Weiwei Jin, Zhucun Xue, Yong Liu, Xiaobin Hu, Shuicheng YAN
+3. **Medical thinking with multiple images**
+   - Authors: Zonghai Yao, Benlu Wang, Yifan Zhang, Junda Wang, Iris Xia, Zhipeng Tang, Shuo Han, Feiyun, Zhichao Yang, Arman Cohan, Hong Yu
+4. **MedVR: Annotation-Free Medical Visual Reasoning via Agentic Reinforcement Learning**
+   - Authors: Zheng Jiang, Heng Guo, Chengyu Fang, Changchen Xiao, Xinyang Hu, Lifeng Sun, Minfeng Xu
+
+## 病理
+
+1. **ASMIL: Attention-Stabilized Multiple Instance Learning for Whole-Slide Imaging**
+   - Authors: Linfeng Ye, Shayan Mohajer Hamidi, Zhixiang Chi, Prof. Guang Li, Mert Pilanci, Takahiro Ogawa, Miki Haseyama, Konstantinos Plataniotis
+2. **Disco: Densely-overlapping Cell Instance Segmentation via Adjacency-aware Collaborative Coloring**
+   - Authors: Rui Sun, Yiwen Yang, Kaiyu Guo, Chen Jiang, Dongli Xu, Zhaonan Liu, Tan Pan, LIMEI HAN, Xue Jiang, Wu Wei, Yuan Cheng
+3. **Exploiting Low-Dimensional Manifold of Features for Few-Shot Whole Slide Image Classification**
+   - Authors: Conghao Xiong, Zhengrui Guo, Zhe Xu, Yifei Zhang, Raymond Kai-yu Tong, Si Yong Yeo, Hao CHEN, Joseph JY Sung, Irwin King
+4. **Fusing Pixels and Genes: Spatially-Aware Learning in Computational Pathology**
+   - Authors: Minghao Han, Dingkang Yang, Linhao Qu, Zizhi Chen, Gang Li, Han Wang, Jiacong Wang, Lihua Zhang
+5. **HistoPrism: Unlocking Functional Pathway Analysis from Pan-Cancer Histology via Gene Expression Prediction**
+   - Authors: Susu Hu, Qinghe Zeng, Nithya Bhasker, Jakob Nikolas Kather, Stefanie Speidel
+
+## CT
+
+1. **DM4CT: Benchmarking Diffusion Models for Computed Tomography Reconstruction**
+   - Authors: Jiayang Shi, Daniel Pelt, Joost Batenburg
+2. **NAB: Neural Adaptive Binning for Sparse-View CT reconstruction**
+   - Authors: Wangduo Xie, Matthew Blaschko
+3. **OmniCT: Towards a Unified Slice-Volume LVLM for Comprehensive CT Analysis**
+   - Authors: Tianwei Lin, Zhongwei Qiu, Wenqiao Zhang, Jiang Liu, Yihan Xie, Mingjian Gao, Zhenxuan Fan, Zhaocheng Li, Sijing Li, Zhongle Xie, Peng LU, Yueting Zhuang, Ling Zhang, Beng Chin Ooi, Yingda Xia
+4. **OpenPros: A Large-Scale Dataset for Limited View Prostate Ultrasound Computed Tomography**
+   - Authors: Hanchen Wang, Yixuan Wu, Yinan Feng, Peng Jin, Luoyuan Zhang, Shihang Feng, James Wiskin, Baris Turkbey, Peter Pinto, Bradford Wood, Songting Luo, Yinpeng Chen, Emad Boctor, Youzuo Lin
+5. **Pixel-Level Residual Diffusion Transformer: Scalable 3D CT Volume Generation**
+   - Authors: Zhenkai Zhang, Markus Hiller, Krista A. Ehinger, Tom Drummond
+
+## 生成_重建
+
+1. **Improving 2D Diffusion Models for 3D Medical Imaging with Inter‑Slice Consistent Stochasticity**
+   - Authors: Chenhe Du, Qing Wu, Xuanyu Tian, Jingyi Yu, Hongjiang Wei, Yuyao Zhang
+2. **Learning Patient-Specific Disease Dynamics With Latent Flow Matching For Longitudinal Imaging Generation**
+   - Authors: Hao Chen, Rui Yin, Yifan Chen, Qi Chen, Chao Li
+
+## 分割_病灶分析
+
+1. **COMPASS: Robust Feature Conformal Prediction for Medical Segmentation Metrics**
+   - Authors: Matt Cheung, Ashok Veeraraghavan, Guha Balakrishnan
+2. **CONSIGN: Conformal Segmentation Informed by Spatial Groupings via Decomposition**
+   - Authors: Bruno Viti, Elias Karabelas, Martin Holler
+3. **CoPRS: Learning Positional Prior from Chain-of-Thought for Reasoning Segmentation**
+   - Authors: Zhenyu Lu, Liupeng Li, Jinpeng Wang, Yan Feng, Bin Chen, Ke Chen, Yaowei Wang
+4. **Johnson-Lindenstrauss Lemma Guided Network for Efficient 3D Medical Segmentation**
+   - Authors: Jinpeng Lu, Linghan Cai, Yinda Chen, Guo Tang, Songhan Jiang, Haoyuan Shi, Zhiwei Xiong
+5. **K-Prism: A Knowledge-Guided and Prompt Integrated Universal Medical Image Segmentation Model**
+   - Authors: Bangwei Guo, Yunhe Gao, Meng Ye, Difei Gu, Yang Zhou, Leon Axel, Dimitris Metaxas
+6. **TumorChain: Interleaved Multimodal Chain-of-Thought Reasoning for Traceable Clinical Tumor Analysis**
+   - Authors: Sijing Li, Zhongwei Qiu, Jiang Liu, Wenqiao Zhang, Tianwei Lin, Yihan Xie, Jianxiang An, Boxiang Yun, Chenglin Yang, Jun Xiao, Guangyu Guo, Jiawen Yao, Wei Liu, Yuan gao, Ke Yan, Weiwei Cao, Zhilin Zheng, Tony C. W. MOK, Kai Cao, Yu Shi, Jiuyu Zhang, Jian Zhou, Beng Chin Ooi, Yingda Xia, Ling Zhang
+7. **You Point, I Learn: Online Adaptation of Interactive Segmentation Models for Handling Distribution Shifts in Medical Imaging**
+   - Authors: Wentian Xu, Ziyun Liang, Harry Anthony, Yasin Ibrahim, Felix Cohen, Guang Yang, Konstantinos Kamnitsas
+
+## 超声
+
+1. **Anatomy-aware Representation Learning for Medical Ultrasound**
+   - Authors: Seok-Hwan Oh, Myeong-Gee Kim, Guil Jung, hyeonjik lee, Young-Min Kim, Sang-yun Kim, Hyuksool Kwon, Hyeon-min Bae
+2. **FETAL-GAUGE: A BENCHMARK FOR ASSESSING VISION-LANGUAGE MODELS IN FETAL ULTRASOUND**
+   - Authors: Hussain Alasmawi, Numan Saeed, Mohammad Yaqub
+3. **U2-BENCH: Benchmarking Large Vision-Language Models on Ultrasound Understanding**
+   - Authors: Anjie Le, Henan Liu, Yue Wang, Zhenyu Liu, Rongkun Zhu, Taohan Weng, Jinze Yu, Boyang Wang, Yalun Wu, Kaiwen Yan, Quanlin Sun, Meirui Jiang, Jialun Pei, Siya Liu, Haoyun Zheng, Zhoujun Li, J. Alison Noble, Jacques Souquet, Xiaoqing Guo, Manxi Lin, Hongcheng Guo
+4. **UltraGauss: Ultrafast Gaussian Reconstruction of 3D Ultrasound Volumes**
+   - Authors: Mark Eid, Ana Namburete, Joao F. Henriques
+
+## MRI_脑影像
+
+1. **Functional MRI Time Series Generation via Wavelet-Based Image Transform and Spectral Flow Matching for Brain Disorder Identification**
+   - Authors: Hwa Hui Tew, Junn Yong Loo, Leong Yu, Julia Lau, Ding Fan, Hernando Ombao, Raphaël Phan, Chee Tan, Chee-Ming Ting
+2. **Reliable Evaluation of MRI Motion Correction: Dataset and Insights**
+   - Authors: Kun Wang, Tobit Klug, Stefan Ruschke, Jan Kirschke, Reinhard Heckel
+3. **Unified Brain Surface and Volume Registration**
+   - Authors: Mazdak Abulnaga, Andrew Hoopes, Malte Hoffmann, Robin Magnet, Maks Ovsjanikov, Lilla Zollei, John Guttag, Bruce Fischl, Adrian Dalca
+
+## 其他
+
+1. **Boosting Medical Visual Understanding From Multi-Granular Language Learning**
+   - Authors: Zihan Li, Yiqing Wang, Sina Farsiu, Paul Kinahan
+2. **Dual-Kernel Adapter: Expanding Spatial Horizons for Data-Constrained Medical Image Analysis**
+   - Authors: Ziquan Zhu, Hanruo Zhu, Si-Yuan Lu, Xiang Li, Yanda Meng, Yunxiao Zhang, Gaojie Jin, Lu Yin, Lijie Hu, Di Wang, Lu Liu, Tianjin Huang
